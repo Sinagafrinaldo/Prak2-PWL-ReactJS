@@ -11,4 +11,5 @@ npm install react-jss
 ```
 
 SS tampilan:
-<img src="https://raw.githubusercontent.com/Sinagafrinaldo/Prak2-PWL-ReactJS/main/Screenshot%20(365).png" >
+<br>
+<img src="https://raw.githubusercontent.com/Sinagafrinaldo/Prak2-PWL-ReactJS/main/Screenshot%20(365).png" width="50%" height=50%>
